@@ -1,0 +1,43 @@
+Title: Greater Sudbury Transit Bus -…
+----------
+Short description:
+Greater Sudbury Transit Bus for MonTransit.
+Schedule…
+----------
+What's new in this version?:
+Schedule from June 8, 2015 to August 29, 2017.
+----------
+Full description:
+This app adds Greater Sudbury Transit buses information to MonTransit.
+
+This app provides the buses schedule.
+
+Greater Sudbury Transit buses serve the Sudbury, Azilda, Blezard Valley, Capreol, Chelmsford, Coniston, Copper Cliff, Elmview, Falconbridge, Garson, Hanmer, Laurentian University, Lively, Minnow Lake, Val Caron, Val Thérèse in Ontario, Canada.
+
+Once this application is installed, the MonTransit app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the City of Greater Sudbury.
+http://opendata.greatersudbury.ca/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-sudbury-transit-bus-android
+
+This app is not related with Greater Sudbury Transit and the City of Greater Sudbury.
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-sudbury-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone:
+----------
+Privacy Policy:
