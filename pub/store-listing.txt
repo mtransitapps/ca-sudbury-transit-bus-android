@@ -12,7 +12,7 @@ This app adds Greater Sudbury Transit buses information to MonTransit.
 
 This app provides the buses schedule.
 
-Greater Sudbury Transit buses serve the Sudbury, Azilda, Blezard Valley, Capreol, Chelmsford, Coniston, Copper Cliff, Elmview, Falconbridge, Garson, Hanmer, Laurentian University, Lively, Minnow Lake, Val Caron, Val Thérèse in Ontario, Canada.
+Greater Sudbury Transit buses serve Sudbury, Azilda, Blezard Valley, Capreol, Chelmsford, Coniston, Copper Cliff, Elmview, Falconbridge, Garson, Hanmer, Laurentian University, Lively, Minnow Lake, Val Caron, Val Thérèse in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
