@@ -2,15 +2,16 @@ Title: Bus Grand Sudbury Transit - M…
 ----------
 Short description:
 Autobus Grand Sudbury Transit pour MonTransit.
-Horaires …
+Horaires. Hors-Ligne. Temps-Réel.
 ----------
 What's new in this version?:
 Horaires du 8 juin 2015 au 29 août 2017.
+Données de Transport Temps Réel de MyBus.
 ----------
 Full description:
 Cette application ajoute les informations des autobus de Grand Sudbury Transit à MonTransit.
 
-L'app contient les horaires plannifiées.
+L'app contient les prévisions horaires ansi que les données de transport en temps-réel de l'API MyBus de la Ville de Grand Sudbury.
 
 Les autobus de Grand Sudbury Transit desservent Sudbury, Azilda, Blezard Valley, Capreol, Chelmsford, Coniston, Copper Cliff, Elmview, Falconbridge, Garson, Hanmer, Laurentian University, Lively, Minnow Lake, Val Caron, Val Thérès en Ontario, Canada.
 
@@ -27,3 +28,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-sudbury-transit-bus-android
 
 Cette application n'est pas associée à Grand Sudbury Transit et la Ville du Grand Sudbury.
+
+Autorisations :
+- Autres : requis pour les prédictions horaires en temps réel de mybus.greatersudbury.ca.
