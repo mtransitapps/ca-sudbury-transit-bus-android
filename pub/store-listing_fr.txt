@@ -11,7 +11,7 @@ Données de Transport Temps Réel de MonBus.
 Full description:
 Cette application ajoute les informations des autobus Transit du Grand Sudbury à MonTransit.
 
-L'app contient les prévisions horaires ansi que les données de transport en temps-réel de l'API MonBus de la Ville de Grand Sudbury.
+L'app contient les prévisions horaires ainsi que les données de transport en temps-réel de l'API MonBus de la Ville de Grand Sudbury.
 
 Les autobus Transit du Grand Sudbury desservent Sudbury, Azilda, Blezard Valley, Capreol, Chelmsford, Coniston, Copper Cliff, Elmview, Falconbridge, Garson, Hanmer, Laurentian University, Lively, Minnow Lake, Val Caron, Val Thérès en Ontario, Canada.
 
