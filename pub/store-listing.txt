@@ -5,7 +5,7 @@ Greater Sudbury Transit Bus for MonTransit.
 Schedule. Offline. Real-Time.
 ----------
 What's new in this version?:
-Schedule from December 8, 2018 to May 31, 2019.
+Schedule from January 26, 2019 to May 31, 2019.
 MyBus Real Time Transit Data.
 ----------
 Full description:
