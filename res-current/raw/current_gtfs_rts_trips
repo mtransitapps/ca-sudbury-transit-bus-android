@@ -1,59 +1,62 @@
-201,0,'New Subdury Ctr',2
-202,0,'Transit Terminal',2
-601,0,'Spruce St',6
-602,0,'Transit Terminal',6
-701,0,'Pioneer Manor',7
-702,0,'Transit Terminal',7
-1201,0,'McNeil Blvd',12
-1202,0,'Transit Terminal',12
-1401,0,'College Boreal',14
-1402,0,'Transit Terminal',14
-1501,0,'Taxation Ctr',15
-1502,0,'Transit Terminal',15
-1701,0,'Burton Ave',17
-1702,0,'Transit Terminal',17
-10101,0,'Bancroft & Moonlight',101
-10102,0,'Transit Terminal',101
-10201,0,'Bancroft & Moonlight',102
-10202,0,'Transit Terminal',102
-10303,0,'Coniston / Transit Terminal',103
-14101,0,'Hawthorne @ Barrydowne',141
-14102,0,'Transit Terminal',141
-14201,0,'Hawthorne @ Barrydowne',142
-14202,0,'Transit Terminal',142
-14703,0,'Transit Terminal',147
-18101,0,'Cam St',181
-18102,0,'Transit Terminal',181
-18201,0,'Cam St',182
-18202,0,'Transit Terminal',182
+102,0,'New Sudbury',1
+101,0,'South End',1
+201,0,'Cambrian',2
+202,0,'Downtown',2
+302,0,'Downtown',3
+301,0,'Laurentian U',3
+402,0,'Downtown',4
+401,0,'Laurentian U',4
+1002,0,'Downtown',10
+1001,0,'Moonlight',10
+1101,0,'Cambrian',11
+1102,0,'Downtown',11
+1202,0,'Downtown',12
+1201,0,'New Sudbury Ctr',12
+1301,0,'Copper Clf',13
+1302,0,'Downtown',13
+1402,0,'Downtown',14
+1401,0,'South End',14
+2001,0,'Graywood',20
+2002,0,'New Sudbury Ctr',20
+2101,0,'Cambrian',21
+2102,0,'Downtown',21
+2201,0,'Grandview Local',22
+2202,0,'New Sudbury Ctr',22
+2301,0,'Marcus',23
+2302,0,'New Sudbury Ctr',23
+2402,0,'Downtown',24
+2401,0,'Sudbury Tax Ctr',24
+2501,0,'Brodie',25
+2502,0,'Downtown',25
+2602,0,'Downtown',26
+2601,0,'Mckim Local',26
+2702,0,'Downtown',27
+2701,0,'Flour Mill Local',27
+2801,0,'Cam',28
+2802,0,'South End',28
+10101,0,'Naughton',101
+10102,0,'South End',101
+10201,0,'Garson',102
+10202,0,'New Sudbury Ctr',102
+10301,0,'Coniston',103
+10302,0,'New Sudbury Ctr',103
+10401,0,'Azilda/Chelmsford',104
+10402,0,'Downtown',104
+10501,0,'Capreol',105
+10502,0,'Downtown',105
+14702,0,'Transit Terminal',147
 18902,0,'Transit Terminal',189
 18901,0,'Walmart South End',189
 24101,0,'Bancroft & Moonlight',241
 24102,0,'Transit Terminal',241
 30001,0,'Pepertree Vlg',300
 30002,0,'Transit Terminal',300
-30101,0,'Pepertree Vlg',301
-30102,0,'Transit Terminal',301
-30201,0,'Lansing',302
-30202,0,'Transit Terminal',302
-30303,0,'Falconbridge / Transit Terminal',303
-30403,0,'Transit Terminal / New Sudbury',304
-30501,0,'Lasalle / Pepertree',305
-30502,0,'Transit Terminal',305
-40101,0,'Cambrian College',401
-40102,0,'Transit Terminal',401
+30301,0,'Falconbridge / Transit Terminal',303
+30501,0,'Lasalle/Pepertree',305
 40201,0,'Cambrian College',402
 40202,0,'Transit Terminal',402
-40301,0,'Pepertree Vlg',403
-40302,0,'Transit Terminal',403
-50001,0,'Laurentian U',500
-50002,0,'Transit Terminal',500
-50101,0,'Algoma Hosp',501
-50102,0,'Transit Terminal',501
 50201,0,'Algoma Hosp',502
 50202,0,'Transit Terminal',502
-50302,0,'University',503
-50301,0,'Walmart South End',503
 64001,0,'Copper Clf',640
 64002,0,'Transit Terminal',640
 70101,0,'Lively',701
@@ -62,9 +65,3 @@
 70202,0,'Transit Terminal',702
 70301,0,'Capreol',703
 70302,0,'Transit Terminal',703
-70401,0,'Gravelle Dr Trailer Pk',704
-70402,0,'Transit Terminal',704
-81902,0,'Transit Terminal',819
-81901,0,'Walmart South End',819
-94001,0,'Copper Clf',940
-94002,0,'Transit Terminal',940
