@@ -77,6 +77,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- GREATER SUDBURY MYBUS PROVIDER -->
+        <!--
         <provider
             android:name="org.mtransit.android.commons.provider.GreaterSudburyProvider"
             android:authorities="@string/greater_sudbury_authority"
@@ -90,5 +91,6 @@
                 android:name="@string/status_provider_target"
                 android:value="@string/greater_sudbury_status_for_poi_authority" />
         </provider>
+        -->
     </application>
 </manifest>
