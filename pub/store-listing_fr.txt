@@ -5,7 +5,7 @@ Autobus Transit Grand Sudbury pour MonTransit.
 Horaires. Hors-Ligne. Temps-Réel.
 ----------
 What's new in this version?:
-Horaires du 1 octobre 2019 au 6 décembre 2019.
+Horaires du 16 octobre 2019 au 6 décembre 2019.
 Données de Transport Temps Réel de MonBus.
 ----------
 Full description:
