@@ -1,14 +1,3 @@
-Title: Bus Grand Sudbury Transit - M…
-----------
-Short description:
-Autobus Transit Grand Sudbury pour MonTransit.
-Horaires. Hors-Ligne. Temps-Réel.
-----------
-What's new in this version?:
-Horaires du 16 octobre 2019 au 6 décembre 2019.
-Données de Transport Temps Réel de MonBus.
-----------
-Full description:
 Cette application ajoute les informations des autobus Transit du Grand Sudbury à MonTransit.
 
 L'app contient les prévisions horaires ainsi que les données de transport en temps-réel de l'API MonBus de la Ville de Grand Sudbury.
