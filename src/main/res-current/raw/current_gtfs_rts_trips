@@ -1,43 +1,42 @@
-101,0,'Main Line',1
-201,0,'Cambrian',2
-202,0,'Downtown',2
-302,0,'Downtown',3
-301,0,'Laurentian U',3
-1002,0,'Downtown',10
-1001,0,'Moonlight',10
-1102,0,'Downtown',11
-1101,0,'New Sudbury Ctr',11
-1202,0,'Downtown',12
-1201,0,'New Sudbury Ctr',12
-1301,0,'Copper Clf',13
-1302,0,'Downtown',13
-1402,0,'Downtown',14
-1401,0,'South End',14
-2001,0,'Graywood',20
-2002,0,'New Sudbury Ctr',20
-2201,0,'Grandview Local',22
-2202,0,'New Sudbury Ctr',22
-2301,0,'Marcus',23
-2302,0,'New Sudbury Ctr',23
-2402,0,'Downtown',24
-2401,0,'Sudbury Tax Ctr',24
-2501,0,'Brodie',25
-2502,0,'Downtown',25
-2602,0,'Downtown',26
-2601,0,'Mckim Local',26
-2702,0,'Downtown',27
-2701,0,'Flour Mill Local',27
-2801,0,'Cam',28
-2802,0,'South End',28
-2901,0,'Martindale',29
-2902,0,'South End',29
-10102,0,'Downtown',101
-10101,0,'Naughton',101
-10201,0,'Garson',102
-10202,0,'New Sudbury Ctr',102
-10301,0,'Coniston',103
-10302,0,'New Sudbury Ctr',103
-10401,0,'Azilda/Chelmsford',104
-10402,0,'Downtown',104
-10501,0,'Capreol',105
-10502,0,'Downtown',105
+109,0,'Main Line',1
+2019,0,'Cambrian',2
+2029,0,'Downtown',2
+3019,0,'Downtown',3
+3029,0,'Laurentian U',3
+10019,0,'Downtown',10
+10029,0,'Moonlight',10
+11019,0,'Downtown',11
+11029,0,'New Sudbury Ctr',11
+12019,0,'Downtown',12
+12029,0,'New Sudbury Ctr',12
+13029,0,'Copper Clf',13
+13019,0,'Downtown',13
+14029,0,'Downtown',14
+14019,0,'South End',14
+20029,0,'Graywood',20
+20019,0,'New Sudbury Ctr',20
+22019,0,'Grandview Local',22
+23019,0,'Marcus',23
+23029,0,'New Sudbury Ctr',23
+24019,0,'Downtown',24
+24029,0,'Sudbury Tax Ctr',24
+25029,0,'Brodie',25
+25019,0,'Downtown',25
+26029,0,'Downtown',26
+26019,0,'McKim Local',26
+27019,0,'Downtown',27
+27029,0,'Flour Mill Local',27
+28029,0,'Cam',28
+28019,0,'South End',28
+29029,0,'Martindale',29
+29019,0,'South End',29
+101019,0,'Downtown',101
+101029,0,'Naughton',101
+102019,0,'Garson',102
+102029,0,'New Sudbury Ctr',102
+103019,0,'Coniston',103
+103029,0,'New Sudbury Ctr',103
+104019,0,'Azilda/Chelmsford',104
+104029,0,'Downtown',104
+105019,0,'Capreol',105
+105029,0,'Downtown',105
