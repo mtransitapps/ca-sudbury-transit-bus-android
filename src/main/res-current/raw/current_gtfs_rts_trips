@@ -1,8 +1,7 @@
-109,0,'Main Line',1
 2019,0,'Barry Downe / Cambrian',2
 2029,0,'Downtown',2
-3019,0,'Downtown',3
-3029,0,'Lu',3
+3029,0,'Downtown',3
+3019,0,'Lu',3
 4029,0,'Downtown',4
 4019,0,'Lu',4
 10019,0,'Downtown',10
@@ -11,12 +10,12 @@
 11029,0,'Downtown',11
 12019,0,'Downtown',12
 12029,0,'New Sudbury',12
-13029,0,'Copper Clf',13
-13019,0,'Downtown',13
+13019,0,'Copper Clf',13
+13029,0,'Downtown',13
 14019,0,'Downtown',14
 14029,0,'South End',14
-20029,0,'Graywood',20
-20019,0,'New Sudbury Ctr',20
+20019,0,'Graywood',20
+20029,0,'New Sudbury Ctr',20
 22029,0,'Grandview Local',22
 22019,0,'New Sudbury Ctr',22
 23019,0,'Marcus',23
@@ -29,8 +28,8 @@
 26019,0,'McKim Local',26
 27019,0,'Downtown',27
 27029,0,'Flour Mill Local',27
-28029,0,'Cam',28
-28019,0,'South End Hub',28
+28019,0,'Cam',28
+28029,0,'South End Hub',28
 29019,0,'Martindale',29
 29029,0,'South End',29
 101019,0,'Downtown',101
@@ -39,7 +38,7 @@
 102029,0,'New Sudbury Ctr',102
 103019,0,'Coniston',103
 103029,0,'New Sudbury Ctr',103
-104019,0,'Azilda / Chelmsford / Azilda/Chelmsford',104
+104019,0,'Azilda / Chelmsford',104
 104029,0,'Downtown',104
 105029,0,'Capreol',105
 105019,0,'Downtown',105
