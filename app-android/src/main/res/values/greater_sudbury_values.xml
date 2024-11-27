@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <integer name="greater_sudbury_db_version">4</integer>
-    <string name="greater_sudbury_authority">org.mtransit.android.ca_sudbury_transit_bus.mybus</string>
     <string name="greater_sudbury_status_for_poi_authority">@string/gtfs_rts_authority</string>
 </resources>
