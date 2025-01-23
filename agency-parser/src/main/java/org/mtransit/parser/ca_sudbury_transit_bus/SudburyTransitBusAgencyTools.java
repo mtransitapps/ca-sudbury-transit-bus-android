@@ -127,7 +127,7 @@ public class SudburyTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // use stop ID as stop code, used by real-time API, do not change
 	}
 
