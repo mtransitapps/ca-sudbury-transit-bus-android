@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
-    <string name="greater_sudbury_auth_token">INSERT_GREATER_SUDBURY_API_KEY_HERE</string>
-</resources>
