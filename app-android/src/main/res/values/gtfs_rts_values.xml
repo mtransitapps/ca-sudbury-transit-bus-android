@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.greatersudbury.ca/city-hall/contact-the-city/</string>
     <string name="gtfs_rts_contact_us_fr">https://www.grandsudbury.ca/hotel-de-ville/nous-joindre/</string>
+    <string name="gtfs_rts_fares">https://www.greatersudbury.ca/live/transit/fares-and-passes/</string>
+    <string name="gtfs_rts_fares_fr">https://www.grandsudbury.ca/vivre/transit/tarifs-comptants-et-laissez-passer/</string>
 </resources>
