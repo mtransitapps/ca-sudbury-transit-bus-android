@@ -1,0 +1,34 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "direction_finder_enabled": true,
+    "direction_splitter_enabled": true,
+    "direction_splitter_disabled_until": {
+        "190001": "20250216"
+    },
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((\\w+)(to) )",
+            "ignore_case": true,
+            "replacement": "$2 $3 "
+        },
+        {
+            "regex": "subdury",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Sudbury"
+        },
+        {
+            "regex": "sudbury shopping centre",
+            "ignore_case": true,
+            "replacement": "Sudbury Ctr"
+        }
+    ],
+    "use_stop_id_for_stop_code": true,
+    "use_stop_id_for_stop_code_comment": "use stop ID as stop code, used by real-time API, do not change"
+}
